@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Federal Withholding",
+            "description": "The taxpayer's federal withholding is $243,743, which is less than the total tax owed of $259,094. This may result in a tax penalty. The taxpayer should consider increasing their withholding or making estimated tax payments throughout the year.",
+            "actionable_steps": [
+                "Review Form W-4 and adjust withholding as needed",
+                "Make estimated tax payments quarterly"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer has missed itemized deductions of $6,797, which could have reduced their taxable income. They should review their expenses and consider itemizing deductions in the future.",
+            "actionable_steps": [
+                "Review Schedule A and itemize deductions",
+                "Keep receipts and records for future deductions"
+            ]
+        },
+        {
+            "title": "Charitable Giving Opportunity",
+            "description": "The taxpayer has donated $9,000 in cash, but may be able to deduct more by itemizing their deductions. They should consider keeping receipts and records for future charitable donations.",
+            "actionable_steps": [
+                "Review Schedule A and itemize deductions",
+                "Keep receipts and records for future charitable donations"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contribution Opportunity",
+            "description": "The taxpayer has an adjusted gross income (AGI) of $954,317, which is above the Roth IRA contribution limit. However, they may be able to contribute to a traditional IRA or consider other retirement savings options.",
+            "actionable_steps": [
+                "Contribute to a traditional IRA",
+                "Consider other retirement savings options"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has donated $9,000 in cash, which is a significant amount. They may be able to optimize their charitable giving by itemizing deductions and considering other charitable giving strategies.",
+            "actionable_steps": [
+                "Review Schedule A and itemize deductions",
+                "Consider other charitable giving strategies"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has several deductions, including mortgage interest, charitable donations, and state and local taxes. They may be able to bundle these deductions to reduce their taxable income.",
+            "actionable_steps": [
+                "Review Schedule A and bundle deductions",
+                "Consider consulting a tax professional"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has several tax credits, including the residential energy credit and other non-refundable credits. They may be able to maximize these credits by reviewing their expenses and considering other tax credits.",
+            "actionable_steps": [
+                "Review Schedule 3 and maximize credits",
+                "Consider consulting a tax professional"
+            ]
+        }
+    ]
+}

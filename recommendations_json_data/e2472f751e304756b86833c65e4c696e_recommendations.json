@@ -1,0 +1,69 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Federal Withholding",
+            "description": "The taxpayer's federal withholding is $243,743, which is less than the total tax owed of $259,094. This may result in a penalty for underpayment of taxes. The taxpayer should consider increasing their withholding or making estimated tax payments throughout the year.",
+            "actionable_steps": [
+                "Review and adjust withholding amounts",
+                "Make estimated tax payments",
+                "Consider increasing income tax withholding"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer's total itemized deductions are $60,797, which may not be optimal. The taxpayer may be missing deductions for state and local income taxes, real estate taxes, and mortgage interest. The taxpayer should review their records and claim all eligible itemized deductions.",
+            "actionable_steps": [
+                "Review and claim state and local income taxes",
+                "Claim real estate taxes and mortgage interest",
+                "Review and claim other eligible itemized deductions"
+            ]
+        },
+        {
+            "title": "Charitable Giving Opportunities",
+            "description": "The taxpayer has donated $9,000 in cash and $0 in non-cash donations. The taxpayer may be able to increase their charitable giving and claim additional deductions. The taxpayer should consider donating appreciated securities or other non-cash items.",
+            "actionable_steps": [
+                "Consider donating appreciated securities",
+                "Donate other non-cash items",
+                "Increase cash donations"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contributions",
+            "description": "The taxpayer's adjusted gross income (AGI) is $954,317, which is above the Roth IRA contribution limit. However, the taxpayer may be able to contribute to a traditional IRA or consider other retirement savings options.",
+            "actionable_steps": [
+                "Contribute to a traditional IRA",
+                "Consider other retirement savings options",
+                "Review and adjust retirement savings strategy"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has donated $9,000 in cash and $0 in non-cash donations. The taxpayer may be able to increase their charitable giving and claim additional deductions. The taxpayer should consider donating appreciated securities or other non-cash items.",
+            "actionable_steps": [
+                "Consider donating appreciated securities",
+                "Donate other non-cash items",
+                "Increase cash donations"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has claimed $60,797 in itemized deductions. The taxpayer may be able to bundle deductions to increase their total deductions. The taxpayer should review their records and claim all eligible itemized deductions.",
+            "actionable_steps": [
+                "Review and claim state and local income taxes",
+                "Claim real estate taxes and mortgage interest",
+                "Review and claim other eligible itemized deductions"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has claimed $1,979 in other credits. The taxpayer may be able to increase their credits by claiming additional credits or maximizing existing credits. The taxpayer should review their records and claim all eligible credits.",
+            "actionable_steps": [
+                "Review and claim additional credits",
+                "Maximize existing credits",
+                "Review and claim other eligible credits"
+            ]
+        }
+    ]
+}

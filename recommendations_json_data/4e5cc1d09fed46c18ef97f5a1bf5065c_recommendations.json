@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Inadequate Withholding",
+            "description": "The taxpayer's federal withholding is $243,743, which is $5,630 less than the total tax owed ($251,773). This may result in a penalty for underpayment of estimated taxes. It is recommended to increase withholding or make quarterly estimated tax payments to avoid penalties.",
+            "actionable_steps": [
+                "Increase federal withholding or make quarterly estimated tax payments",
+                "Review and adjust withholding tables for future years"
+            ]
+        },
+        {
+            "title": "Missed Deductions",
+            "description": "The taxpayer is missing deductions for mortgage insurance premiums ($0) and investment interest ($0). These deductions could potentially reduce the taxpayer's taxable income by $4,179 and $0, respectively. It is recommended to review and claim these deductions on the tax return.",
+            "actionable_steps": [
+                "Review and claim mortgage insurance premiums and investment interest deductions",
+                "Gather supporting documentation for these deductions"
+            ]
+        },
+        {
+            "title": "Incorrect Filing Status",
+            "description": "The taxpayer is filing as Married Filing Jointly, but their spouse's SSN is not provided. This may result in incorrect filing status and potentially affect tax credits and deductions. It is recommended to review and correct the filing status to ensure accuracy.",
+            "actionable_steps": [
+                "Verify and correct filing status",
+                "Gather supporting documentation for filing status"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contributions",
+            "description": "The taxpayer's AGI is $954,317, which is above the Roth IRA contribution limit of $6,000. However, they may be eligible to contribute to a Roth IRA or a traditional IRA. It is recommended to review and consider contributing to an IRA to take advantage of tax-free growth and potential tax benefits.",
+            "actionable_steps": [
+                "Review and consider contributing to an IRA",
+                "Gather supporting documentation for IRA contributions"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer donated $9,000 in cash to charity, but may be eligible for additional deductions. It is recommended to review and consider itemizing deductions for charitable contributions to maximize tax benefits.",
+            "actionable_steps": [
+                "Review and itemize charitable contributions",
+                "Gather supporting documentation for charitable contributions"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has several itemized deductions, including mortgage interest, real estate taxes, and charitable contributions. It is recommended to review and bundle these deductions to maximize tax benefits.",
+            "actionable_steps": [
+                "Review and bundle itemized deductions",
+                "Gather supporting documentation for itemized deductions"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer is eligible for the residential energy credit of $1,974. It is recommended to review and claim this credit to maximize tax benefits.",
+            "actionable_steps": [
+                "Review and claim residential energy credit",
+                "Gather supporting documentation for residential energy credit"
+            ]
+        }
+    ]
+}

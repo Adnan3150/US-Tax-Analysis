@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Federal Withholding",
+            "description": "The taxpayer has a total tax liability of $259,094, but only $243,743 was withheld from their wages. This leaves a potential shortfall of $15,351, which may result in penalties and interest. The taxpayer should consider increasing their withholding or making estimated tax payments to avoid this issue.",
+            "actionable_steps": [
+                "Review Form W-4 and adjust withholding amounts",
+                "Make estimated tax payments throughout the year"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer has a standard deduction of $60,797, but has itemized deductions of $6,097. This suggests that the taxpayer may be missing out on additional itemized deductions, such as mortgage interest, property taxes, and charitable donations. The taxpayer should review their Schedule A to identify potential missed deductions.",
+            "actionable_steps": [
+                "Review Schedule A and identify potential missed deductions",
+                "Consult with a tax professional to optimize itemized deductions"
+            ]
+        },
+        {
+            "title": "Potential Roth IRA Contribution",
+            "description": "The taxpayer has an adjusted gross income (AGI) of $954,317, which is above the Roth IRA contribution limit of $214,000. However, the taxpayer may still be eligible to contribute to a Roth IRA based on their filing status and income. The taxpayer should review their eligibility and consider contributing to a Roth IRA to optimize their retirement savings.",
+            "actionable_steps": [
+                "Review Roth IRA eligibility and contribution limits",
+                "Consult with a financial advisor to optimize retirement savings"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has charitable donations of $9,000, which is a significant amount. However, the taxpayer may be able to optimize their charitable giving by itemizing their deductions and claiming the charitable contribution deduction. The taxpayer should review their Schedule A to ensure they are taking advantage of this deduction.",
+            "actionable_steps": [
+                "Review Schedule A and itemize charitable donations",
+                "Consult with a tax professional to optimize charitable giving"
+            ]
+        },
+        {
+            "title": "Investment Tax Strategies",
+            "description": "The taxpayer has investments generating $2,642 in interest income and $3,384 in ordinary dividends. The taxpayer may be able to optimize their investment tax strategy by considering tax-loss harvesting, tax-deferred investments, and charitable donations of appreciated securities. The taxpayer should review their investment portfolio and consult with a financial advisor to optimize their investment tax strategy.",
+            "actionable_steps": [
+                "Review investment portfolio and consider tax-loss harvesting",
+                "Consult with a financial advisor to optimize investment tax strategy"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has itemized deductions of $6,097, which includes mortgage interest, property taxes, and charitable donations. The taxpayer may be able to optimize their deductions by bundling these expenses and claiming the standard deduction. The taxpayer should review their Schedule A and consult with a tax professional to optimize their deductions.",
+            "actionable_steps": [
+                "Review Schedule A and bundle itemized deductions",
+                "Consult with a tax professional to optimize deductions"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has credits of $1,979, which includes the residential energy credit and other non-refundable credits. The taxpayer may be able to maximize their tax credits by claiming the earned income tax credit (EITC) and the child tax credit. The taxpayer should review their eligibility and consult with a tax professional to maximize their tax credits.",
+            "actionable_steps": [
+                "Review eligibility for EITC and child tax credit",
+                "Consult with a tax professional to maximize tax credits"
+            ]
+        }
+    ]
+}

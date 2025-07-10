@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Federal Withholding",
+            "description": "The taxpayer's federal withholding from W-2 and 1099 is $243,743, which is less than the total tax owed of $259,094. This may result in a penalty risk. The taxpayer should consider increasing their federal withholding or making quarterly estimated tax payments to avoid penalties.",
+            "actionable_steps": [
+                "Review and adjust federal withholding",
+                "Make quarterly estimated tax payments"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer has claimed a standard deduction of $60,797, but may be eligible for itemized deductions. Reviewing Schedule A, it appears that the taxpayer has missed deductions for medical expenses, state and local income taxes, and real estate taxes. The taxpayer should review their expenses and claim the eligible itemized deductions.",
+            "actionable_steps": [
+                "Review Schedule A for eligible itemized deductions",
+                "Claim eligible itemized deductions"
+            ]
+        },
+        {
+            "title": "Charitable Giving Opportunity",
+            "description": "The taxpayer has claimed a charitable cash donation of $9,000, but may be eligible for additional charitable deductions. Reviewing Schedule A, it appears that the taxpayer has not claimed any non-cash charitable donations. The taxpayer should consider donating non-cash items and claiming the deduction.",
+            "actionable_steps": [
+                "Review Schedule A for non-cash charitable donations",
+                "Donate non-cash items and claim the deduction"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contribution Opportunity",
+            "description": "The taxpayer's adjusted gross income (AGI) is $954,317, which is above the Roth IRA contribution limit of $204,000. However, the taxpayer may be eligible for a backdoor Roth IRA contribution by converting a traditional IRA to a Roth IRA. The taxpayer should consider consulting with a financial advisor to determine the best strategy.",
+            "actionable_steps": [
+                "Consult with a financial advisor",
+                "Consider a backdoor Roth IRA contribution"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has claimed a charitable cash donation of $9,000, but may be eligible for additional charitable deductions. Reviewing Schedule A, it appears that the taxpayer has not claimed any non-cash charitable donations. The taxpayer should consider donating non-cash items and claiming the deduction.",
+            "actionable_steps": [
+                "Review Schedule A for non-cash charitable donations",
+                "Donate non-cash items and claim the deduction"
+            ]
+        },
+        {
+            "title": "Deduction Bundling Opportunity",
+            "description": "The taxpayer has claimed a standard deduction of $60,797, but may be eligible for additional itemized deductions. Reviewing Schedule A, it appears that the taxpayer has missed deductions for medical expenses, state and local income taxes, and real estate taxes. The taxpayer should consider bundling these deductions to maximize their tax savings.",
+            "actionable_steps": [
+                "Review Schedule A for eligible itemized deductions",
+                "Bundle deductions to maximize tax savings"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has claimed a child tax credit of $0, but may be eligible for additional tax credits. Reviewing Schedule 3, it appears that the taxpayer has not claimed any education credits or retirement savings credits. The taxpayer should consider claiming these credits to maximize their tax savings.",
+            "actionable_steps": [
+                "Review Schedule 3 for eligible tax credits",
+                "Claim eligible tax credits"
+            ]
+        }
+    ]
+}

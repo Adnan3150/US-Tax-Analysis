@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Federal Withholding",
+            "description": "The taxpayer's federal withholding is $243,743, which is less than the total tax owed of $259,094. This may result in a penalty for underpayment of taxes. The taxpayer should consider increasing their federal withholding or making estimated tax payments throughout the year.",
+            "actionable_steps": [
+                "Review and adjust federal withholding",
+                "Make estimated tax payments"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer's itemized deductions total $60,797, but they may be missing deductions for mortgage interest, property taxes, and charitable contributions. The taxpayer should review their records to ensure they are taking advantage of all eligible itemized deductions.",
+            "actionable_steps": [
+                "Review mortgage interest and property tax statements",
+                "Gather charitable contribution receipts"
+            ]
+        },
+        {
+            "title": "Potential Penalty for Late Payment",
+            "description": "The taxpayer has an additional tax payment of $7,321, which may result in a penalty for late payment. The taxpayer should consider making this payment as soon as possible to avoid any potential penalties.",
+            "actionable_steps": [
+                "Make additional tax payment",
+                "Consider setting up automatic payments"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contribution Opportunity",
+            "description": "The taxpayer's adjusted gross income (AGI) is $954,317, which is above the Roth IRA contribution limit of $6,000. However, they may be able to contribute to a Roth IRA if they have a high-deductible health plan. The taxpayer should review their health insurance options to see if they qualify.",
+            "actionable_steps": [
+                "Review health insurance options",
+                "Consider contributing to a Roth IRA"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has made charitable contributions totaling $9,000, but they may be able to optimize their giving by itemizing deductions. The taxpayer should review their charitable contributions and consider itemizing deductions to maximize their tax benefits.",
+            "actionable_steps": [
+                "Review charitable contribution receipts",
+                "Consider itemizing deductions"
+            ]
+        },
+        {
+            "title": "Deduction Bundling Opportunity",
+            "description": "The taxpayer has itemized deductions totaling $60,797, which includes mortgage interest and property taxes. They may be able to bundle these deductions to maximize their tax benefits. The taxpayer should review their records to ensure they are taking advantage of all eligible deductions.",
+            "actionable_steps": [
+                "Review mortgage interest and property tax statements",
+                "Consider bundling deductions"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has taken the residential energy credit of $1,974, but they may be eligible for other tax credits. The taxpayer should review their records to ensure they are taking advantage of all eligible tax credits.",
+            "actionable_steps": [
+                "Review tax credits",
+                "Consider claiming other eligible credits"
+            ]
+        }
+    ]
+}

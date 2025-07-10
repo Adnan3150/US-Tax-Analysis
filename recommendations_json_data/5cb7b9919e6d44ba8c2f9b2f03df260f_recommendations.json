@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Withholding",
+            "description": "The taxpayer's federal withholding is $28,537, which is less than their total tax liability of $33,359. This may result in a penalty for underpayment of taxes. To address this, the taxpayer should consider increasing their withholding or making estimated tax payments throughout the year.",
+            "actionable_steps": [
+                "Increase federal withholding",
+                "Make estimated tax payments"
+            ]
+        },
+        {
+            "title": "Missed Deductions",
+            "description": "The taxpayer has missed deductions for mortgage insurance premiums and investment interest, totaling $7471 and $0, respectively. These deductions can be claimed on Schedule A, Itemized Deductions. To address this, the taxpayer should review their financial records and claim these deductions on their tax return.",
+            "actionable_steps": [
+                "Review financial records",
+                "Claim missed deductions on Schedule A"
+            ]
+        },
+        {
+            "title": "Incorrect Filing Status",
+            "description": "The taxpayer is filing jointly, but their adjusted gross income (AGI) is below the threshold for joint filing. They may be eligible to file as single and claim a higher standard deduction. To address this, the taxpayer should review their filing status and consider filing as single if eligible.",
+            "actionable_steps": [
+                "Review filing status",
+                "Consider filing as single"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contributions",
+            "description": "The taxpayer has a total income of $221,697, which is above the Roth IRA contribution limit of $6,000. However, they may be eligible to contribute to a Roth IRA based on their AGI. To address this, the taxpayer should consider contributing to a Roth IRA and taking advantage of the tax-free growth and withdrawals in retirement.",
+            "actionable_steps": [
+                "Contribute to a Roth IRA",
+                "Take advantage of tax-free growth and withdrawals"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has made charitable contributions totaling $0. They may be eligible to claim a charitable deduction on their tax return. To address this, the taxpayer should review their charitable giving and claim the deduction on Schedule A.",
+            "actionable_steps": [
+                "Review charitable giving",
+                "Claim charitable deduction on Schedule A"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has itemized deductions totaling $27,700. They may be able to bundle these deductions to reduce their taxable income. To address this, the taxpayer should review their itemized deductions and consider bundling them to reduce their taxable income.",
+            "actionable_steps": [
+                "Review itemized deductions",
+                "Bundle deductions to reduce taxable income"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has not claimed any tax credits. They may be eligible to claim credits such as the child tax credit or education credits. To address this, the taxpayer should review their eligibility for tax credits and claim them on their tax return.",
+            "actionable_steps": [
+                "Review eligibility for tax credits",
+                "Claim tax credits on tax return"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Federal Withholding",
+            "description": "The taxpayer's federal withholding is $243,743, which is less than the total tax owed of $259,094. This may result in a tax penalty. The taxpayer should consider increasing their federal withholding or making quarterly estimated tax payments to avoid penalties.",
+            "actionable_steps": [
+                "Increase federal withholding",
+                "Make quarterly estimated tax payments"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer has itemized deductions of $60,797, but may be missing deductions for state and local income taxes, real estate taxes, and mortgage interest. The taxpayer should review their records to ensure they are claiming all eligible itemized deductions.",
+            "actionable_steps": [
+                "Review state and local income tax deductions",
+                "Review real estate tax deductions",
+                "Review mortgage interest deductions"
+            ]
+        },
+        {
+            "title": "Charitable Giving Opportunity",
+            "description": "The taxpayer has donated $9,000 in cash to charity, but may be able to increase their charitable giving by considering non-cash donations or carrying over unused charitable deductions. The taxpayer should review their charitable giving strategy to maximize their tax benefits.",
+            "actionable_steps": [
+                "Consider non-cash donations",
+                "Carry over unused charitable deductions"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contribution Opportunity",
+            "description": "The taxpayer has an adjusted gross income of $954,317, which is above the Roth IRA contribution limit. However, they may be able to contribute to a Roth IRA by using the 'backdoor' contribution strategy. The taxpayer should consider contributing to a Roth IRA to diversify their retirement savings.",
+            "actionable_steps": [
+                "Contribute to a Roth IRA",
+                "Consider a 'backdoor' contribution"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has donated $9,000 in cash to charity, but may be able to increase their charitable giving by considering non-cash donations or carrying over unused charitable deductions. The taxpayer should review their charitable giving strategy to maximize their tax benefits.",
+            "actionable_steps": [
+                "Consider non-cash donations",
+                "Carry over unused charitable deductions"
+            ]
+        },
+        {
+            "title": "Deduction Bundling Opportunity",
+            "description": "The taxpayer has itemized deductions of $60,797, which includes mortgage interest and real estate taxes. They may be able to bundle these deductions with other itemized deductions to increase their total deductions. The taxpayer should review their itemized deductions to identify opportunities for bundling.",
+            "actionable_steps": [
+                "Bundle mortgage interest and real estate taxes",
+                "Review other itemized deductions for bundling opportunities"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has claimed a total of $1,979 in tax credits, including the residential energy credit. They may be able to increase their tax credits by claiming other credits, such as the child tax credit or education credits. The taxpayer should review their tax credits to identify opportunities for maximization.",
+            "actionable_steps": [
+                "Claim the child tax credit",
+                "Claim education credits",
+                "Review other tax credits for maximization opportunities"
+            ]
+        }
+    ]
+}
