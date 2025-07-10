@@ -1,0 +1,177 @@
+{
+    "form_type": "Form 1040",
+    "tax_year": "2024",
+    "basic_info": {
+        "tax_year": 0,
+        "taxpayer_name": 0,
+        "spouse_name": 0,
+        "ssn": 0,
+        "spouse_ssn": 0,
+        "address": 0,
+        "city": 0,
+        "state": 0,
+        "zip_code": 0,
+        "filing_status": 0
+    },
+    "income_section": {
+        "wages": 928753,
+        "taxable_interest": 2642,
+        "qualified_dividends": 1822,
+        "ordinary_dividends": 3384,
+        "capital_gains_or_loss": 19538,
+        "total_income": 954317,
+        "adjusted_gross_income": 954317,
+        "standard_or_itemized_deduction": 60797,
+        "total_deductions": 60798,
+        "taxable_income": 893519
+    },
+    "tax_section": {
+        "income_tax": 251773,
+        "child_tax_credit": 0,
+        "other_credits": 1979,
+        "total_credits": 1979,
+        "additional_taxes": 7321,
+        "total_tax": 259094
+    },
+    "payment_section": {
+        "federal_withholding_w2": 243743,
+        "federal_withholding_1099": 0,
+        "other_withholding": 5001,
+        "federal_total_withholding": 248744,
+        "estimated_payments": 0,
+        "total_payments": 248744,
+        "refund": 0,
+        "amount_owed": 10350
+    },
+    "schedule_1": {
+        "additional_income": 0,
+        "adjustments_to_income": 0,
+        "taxable_refunds": 0,
+        "alimony_received": 0,
+        "business_income": 0,
+        "capital_gain_loss": 0,
+        "other_gains_losses": 0,
+        "rental_income": 0,
+        "unemployment_compensation": 0,
+        "other_income": 0,
+        "educator_expenses": 0,
+        "business_expenses": 0,
+        "hsa_deduction": 0,
+        "moving_expenses": 0,
+        "se_tax_deduction": 0,
+        "sep_simple_ira": 0,
+        "self_employed_health": 0,
+        "penalty_early_withdrawal": 0,
+        "alimony_paid": 0,
+        "ira_deduction": 0,
+        "student_loan_interest": 0
+    },
+    "schedule_2": {
+        "amt": 0,
+        "excess_advance_ptc": 0,
+        "additional_taxes_other": 0,
+        "total_schedule_2": 7321
+    },
+    "schedule_3": {
+        "foreign_tax_credit": 5,
+        "child_dependent_care_credit": 0,
+        "education_credits": 0,
+        "retirement_savings_credit": 0,
+        "residential_energy_credit": 1974,
+        "other_nonrefundable_credits": 0,
+        "total_other_credits": 1979,
+        "net_ptc": 0,
+        "amount_paid_extension": 0,
+        "excess_ss_tax": 0,
+        "credit_tax_paid_forms": 0,
+        "other_payments": 0,
+        "total_other_payments": 0
+    },
+    "schedule_a": {
+        "medical_dental": 0,
+        "state_local_income_tax": 1838,
+        "state_local_sales_tax": 0,
+        "real_estate_tax": 22151,
+        "personal_property_tax": 0,
+        "other_taxes": 0,
+        "home_mortgage_interest": 41797,
+        "home_mortgage_points": 0,
+        "mortgage_insurance_premiums": 0,
+        "investment_interest": 0,
+        "charitable_cash": 9000,
+        "charitable_noncash": 0,
+        "charitable_carryover": 0,
+        "casualty_theft_losses": 0,
+        "other_itemized": 0,
+        "total_itemized": 60797
+    },
+    "schedule_b": {
+        "total_interest": 2642,
+        "total_dividends": 3384,
+        "foreign_accounts": "No",
+        "foreign_trust": "No"
+    },
+    "schedule_c": {
+        "gross_receipts": null,
+        "returns_allowances": null,
+        "cost_of_goods_sold": null,
+        "gross_profit": null,
+        "total_expenses": null,
+        "net_profit_loss": null
+    },
+    "schedule_d": {
+        "short_term_gain_loss": 3857,
+        "long_term_gain_loss": 15681,
+        "total_capital_gain_loss": 19538,
+        "capital_gain_distributions": 0,
+        "unrecaptured_section_1250": 0,
+        "collectibles_gain": 0
+    },
+    "schedule_e": {
+        "rental_real_estate_income": null,
+        "royalty_income": null,
+        "partnership_s_corp_income": null,
+        "estate_trust_income": null,
+        "total_supplemental_income": null
+    },
+    "schedule_f": {
+        "gross_farm_income": null,
+        "farm_expenses": null,
+        "net_farm_profit_loss": null
+    },
+    "schedule_h": {
+        "household_wages": null,
+        "household_ss_medicare": null,
+        "household_futa": null,
+        "total_household_tax": null
+    },
+    "schedule_j": {
+        "elected_farm_income": null,
+        "average_income": null
+    },
+    "schedule_r": {
+        "credit_elderly_disabled": null
+    },
+    "schedule_se": {
+        "net_earnings_se": null,
+        "self_employment_tax": null,
+        "deductible_se_tax": null
+    },
+    "form_4868": {
+        "extension_payment": null
+    },
+    "form_8812": {
+        "additional_child_tax_credit": null,
+        "earned_income": null
+    },
+    "form_8829": {
+        "home_office_area": null,
+        "total_home_area": null,
+        "home_office_percentage": null,
+        "home_office_deduction": null
+    },
+    "schedule_eic": {
+        "earned_income_credit": null,
+        "qualifying_children_eic": null
+    }
+}

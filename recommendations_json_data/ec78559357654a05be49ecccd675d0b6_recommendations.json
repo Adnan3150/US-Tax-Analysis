@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Inadequate Federal Withholding",
+            "description": "The taxpayer's federal withholding is $243,743, which is less than the total tax owed of $259,094. This may result in a penalty and interest. The taxpayer should consider increasing their withholding or making estimated tax payments throughout the year.",
+            "actionable_steps": [
+                "Review and adjust withholding amounts",
+                "Make estimated tax payments"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer has missed itemized deductions of $6,797, which could have reduced their taxable income. The taxpayer should review their itemized deductions and claim any missed deductions.",
+            "actionable_steps": [
+                "Review and claim missed itemized deductions",
+                "Consult with a tax professional"
+            ]
+        },
+        {
+            "title": "Potential Penalty for Underpayment of Estimated Taxes",
+            "description": "The taxpayer has underpaid their estimated taxes by $15,261. This may result in a penalty and interest. The taxpayer should consider increasing their estimated tax payments or making a payment with their tax return.",
+            "actionable_steps": [
+                "Review and adjust estimated tax payments",
+                "Make a payment with the tax return"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contributions",
+            "description": "The taxpayer has an adjusted gross income (AGI) of $954,317, which is above the Roth IRA contribution limit. However, they may still be eligible to contribute to a Roth IRA or convert a traditional IRA to a Roth IRA. The taxpayer should consider consulting with a tax professional to determine their eligibility.",
+            "actionable_steps": [
+                "Consult with a tax professional",
+                "Consider converting a traditional IRA to a Roth IRA"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has donated $9,000 to charity, which is a significant amount. They may be eligible to itemize their deductions and claim a charitable deduction. The taxpayer should review their charitable donations and claim any eligible deductions.",
+            "actionable_steps": [
+                "Review and claim eligible charitable deductions",
+                "Consider consulting with a tax professional"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has itemized deductions of $60,797, which could be bundled with other deductions to reduce their taxable income. The taxpayer should review their itemized deductions and consider bundling them with other deductions.",
+            "actionable_steps": [
+                "Review and bundle itemized deductions",
+                "Consult with a tax professional"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has claimed a residential energy credit of $1,974, which is a significant credit. They may be eligible to claim other tax credits, such as the child tax credit or education credits. The taxpayer should review their tax credits and claim any eligible credits.",
+            "actionable_steps": [
+                "Review and claim eligible tax credits",
+                "Consult with a tax professional"
+            ]
+        }
+    ]
+}

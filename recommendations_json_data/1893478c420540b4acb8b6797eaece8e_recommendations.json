@@ -1,0 +1,55 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Withholding",
+            "description": "The taxpayer's federal withholding is $28,537, which is less than the total tax owed of $33,359. This may result in a penalty for underpayment of taxes.",
+            "actionable_steps": [
+                "Increase federal withholding or make quarterly estimated tax payments to avoid penalties"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer has itemized deductions of $17,599, but may be missing deductions for mortgage insurance premiums, investment interest, and charitable noncash donations.",
+            "actionable_steps": [
+                "Review and claim missed itemized deductions on Schedule A"
+            ]
+        },
+        {
+            "title": "Incorrect Filing Status",
+            "description": "The taxpayer is filing as Married Filing Jointly, but may be eligible for a higher standard deduction or credits if filing as Head of Household or Single.",
+            "actionable_steps": [
+                "Review eligibility for alternative filing statuses and adjust accordingly"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contributions",
+            "description": "The taxpayer has an AGI of $193,997, which is below the Roth IRA contribution limit. Contributing to a Roth IRA can provide tax-free growth and withdrawals in retirement.",
+            "actionable_steps": [
+                "Contribute to a Roth IRA to take advantage of tax-free growth and withdrawals"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has charitable cash donations of $0, but may be eligible for a tax deduction for charitable noncash donations. Donating appreciated securities can also provide a tax deduction and avoid capital gains tax.",
+            "actionable_steps": [
+                "Donate appreciated securities or noncash items to maximize charitable giving deductions"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has itemized deductions for medical expenses, state and local income tax, and home mortgage interest. Bundling these deductions can provide a higher total deduction than claiming them separately.",
+            "actionable_steps": [
+                "Bundle itemized deductions to maximize total deduction"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer may be eligible for additional tax credits, such as the earned income credit or education credits, based on their income and family size.",
+            "actionable_steps": [
+                "Review eligibility for additional tax credits and claim those that apply"
+            ]
+        }
+    ]
+}

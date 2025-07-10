@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Inadequate Federal Withholding",
+            "description": "The taxpayer's federal withholding is $243,743, which is less than the total tax owed of $259,094. This may result in a penalty for underpayment of estimated taxes. The taxpayer should consider increasing their federal withholding or making estimated tax payments throughout the year.",
+            "actionable_steps": [
+                "Review and adjust federal withholding",
+                "Make estimated tax payments"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer has missed itemized deductions for medical expenses, state and local income taxes, and real estate taxes. These deductions could total up to $63,090. The taxpayer should review their expenses and claim these deductions on their tax return.",
+            "actionable_steps": [
+                "Review medical expenses",
+                "Review state and local income taxes",
+                "Review real estate taxes"
+            ]
+        },
+        {
+            "title": "Incorrect Filing Status",
+            "description": "The taxpayer is filing jointly, but their spouse's income is not reported. This may result in an incorrect calculation of their tax liability. The taxpayer should review their filing status and ensure that their spouse's income is reported correctly.",
+            "actionable_steps": [
+                "Review filing status",
+                "Report spouse's income"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contributions",
+            "description": "The taxpayer has an adjusted gross income (AGI) of $954,317, which is above the Roth IRA contribution limit. However, they may be able to contribute to a traditional IRA or a SEP-IRA. The taxpayer should consider contributing to a retirement account to reduce their taxable income.",
+            "actionable_steps": [
+                "Contribute to a traditional IRA or SEP-IRA"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has donated $9,000 to charity, but they may be able to itemize their deductions and claim a larger deduction. The taxpayer should review their charitable donations and consider itemizing their deductions.",
+            "actionable_steps": [
+                "Review charitable donations",
+                "Itemize deductions"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has several itemized deductions, including mortgage interest, real estate taxes, and charitable donations. They may be able to bundle these deductions to reduce their taxable income. The taxpayer should review their itemized deductions and consider bundling them.",
+            "actionable_steps": [
+                "Review itemized deductions",
+                "Bundle deductions"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has several tax credits, including the residential energy credit and the child tax credit. They may be able to maximize these credits by reviewing their expenses and claiming the credits they are eligible for. The taxpayer should review their tax credits and consider maximizing them.",
+            "actionable_steps": [
+                "Review tax credits",
+                "Maximize credits"
+            ]
+        }
+    ]
+}

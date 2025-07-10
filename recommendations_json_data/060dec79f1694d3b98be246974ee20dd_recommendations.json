@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Federal Withholding",
+            "description": "The taxpayer's federal withholding is $243,743, which is less than their total tax owed of $259,094. This may result in a penalty for underpayment of taxes. The taxpayer should consider increasing their withholding or making quarterly estimated tax payments to avoid this penalty.",
+            "actionable_steps": [
+                "Increase federal withholding",
+                "Make quarterly estimated tax payments"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer's total itemized deductions are $60,797, which is below the standard deduction of $12,950. The taxpayer may be missing out on itemized deductions such as mortgage interest, charitable donations, and state and local taxes. A review of the taxpayer's Schedule A may reveal additional deductions.",
+            "actionable_steps": [
+                "Review Schedule A for missed itemized deductions",
+                "Consider itemizing deductions"
+            ]
+        },
+        {
+            "title": "Potential Roth IRA Contribution",
+            "description": "The taxpayer's adjusted gross income (AGI) is $954,317, which is above the Roth IRA contribution limit of $204,000. However, the taxpayer may still be eligible for a Roth IRA contribution based on their income and filing status. A review of the taxpayer's income and filing status may reveal eligibility for a Roth IRA contribution.",
+            "actionable_steps": [
+                "Review Roth IRA eligibility",
+                "Consider making a Roth IRA contribution"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has made charitable donations of $9,000, which is a significant portion of their total itemized deductions. The taxpayer may be able to optimize their charitable giving by itemizing deductions for charitable donations and considering a donor-advised fund.",
+            "actionable_steps": [
+                "Itemize charitable donations",
+                "Consider a donor-advised fund"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has multiple itemized deductions, including mortgage interest, charitable donations, and state and local taxes. Bundling these deductions may result in a higher total deduction. A review of the taxpayer's Schedule A may reveal opportunities for bundling deductions.",
+            "actionable_steps": [
+                "Review Schedule A for bundling opportunities",
+                "Consider bundling deductions"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has taken the residential energy credit of $1,974, which is a non-refundable credit. The taxpayer may be eligible for additional tax credits, such as the child tax credit or education credits. A review of the taxpayer's tax credits may reveal opportunities for maximization.",
+            "actionable_steps": [
+                "Review tax credits for maximization opportunities",
+                "Consider claiming additional tax credits"
+            ]
+        },
+        {
+            "title": "Investment Tax Strategies",
+            "description": "The taxpayer has invested in taxable interest and ordinary dividends, which are subject to tax. The taxpayer may be able to reduce their tax liability by investing in tax-efficient investments, such as index funds or municipal bonds. A review of the taxpayer's investment portfolio may reveal opportunities for tax optimization.",
+            "actionable_steps": [
+                "Review investment portfolio for tax optimization",
+                "Consider tax-efficient investments"
+            ]
+        }
+    ]
+}

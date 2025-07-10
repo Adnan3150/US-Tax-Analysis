@@ -1,0 +1,61 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Withholding",
+            "description": "The taxpayer's federal withholding is $248,744, which is less than the total tax owed of $259,094. This may result in a penalty for underpayment of taxes. The taxpayer should consider increasing their withholding or making quarterly estimated payments to avoid this penalty.",
+            "actionable_steps": [
+                "Increase federal withholding",
+                "Make quarterly estimated payments"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer's total itemized deductions are $60,797, which may not be optimized. The taxpayer should review their Schedule A to ensure they are claiming all eligible deductions, such as mortgage interest and charitable contributions.",
+            "actionable_steps": [
+                "Review Schedule A",
+                "Claim eligible deductions"
+            ]
+        },
+        {
+            "title": "Potential Penalty for Underpayment of Taxes",
+            "description": "The taxpayer's total tax owed is $259,094, but they have only paid $248,744 in federal withholding. This may result in a penalty for underpayment of taxes. The taxpayer should consider making a payment or increasing their withholding to avoid this penalty.",
+            "actionable_steps": [
+                "Make a payment",
+                "Increase federal withholding"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contributions",
+            "description": "The taxpayer's adjusted gross income (AGI) is $954,317, which is above the Roth IRA contribution limit. However, they may still be eligible to contribute to a Roth IRA or a traditional IRA. The taxpayer should consider contributing to a retirement account to take advantage of tax benefits.",
+            "actionable_steps": [
+                "Contribute to a Roth IRA or traditional IRA"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has donated $9,000 in cash and $0 in non-cash items to charity. They may be eligible to itemize their charitable contributions and claim a deduction. The taxpayer should consider itemizing their charitable contributions to maximize their deduction.",
+            "actionable_steps": [
+                "Itemize charitable contributions",
+                "Claim charitable deduction"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has itemized deductions of $60,797, which includes mortgage interest and charitable contributions. They may be able to bundle these deductions with other itemized deductions to maximize their total deduction.",
+            "actionable_steps": [
+                "Bundle itemized deductions",
+                "Maximize total deduction"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has claimed a residential energy credit of $1,974 and a foreign tax credit of $5. They may be eligible to claim additional tax credits, such as the child tax credit or the education credit. The taxpayer should review their tax credits to ensure they are maximizing their refund.",
+            "actionable_steps": [
+                "Review tax credits",
+                "Claim additional credits"
+            ]
+        }
+    ]
+}

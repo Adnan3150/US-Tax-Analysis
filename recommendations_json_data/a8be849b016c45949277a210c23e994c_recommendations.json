@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Federal Withholding",
+            "description": "The taxpayer's federal withholding from W-2 is $243,743, which is less than the total tax owed of $259,094. This may result in a penalty for underpayment of estimated taxes. The taxpayer should consider increasing their withholding or making estimated tax payments throughout the year.",
+            "actionable_steps": [
+                "Review and adjust withholding amounts",
+                "Make estimated tax payments"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer's total itemized deductions are $60,797, which is below the standard deduction of $12,950 for married filing jointly. The taxpayer may be missing out on deductions for charitable contributions, mortgage interest, and property taxes. A review of the taxpayer's itemized deductions is recommended.",
+            "actionable_steps": [
+                "Review and itemize deductions",
+                "Consult with a tax professional"
+            ]
+        },
+        {
+            "title": "Potential Penalty for Late Payment",
+            "description": "The taxpayer has an amount owed of $10,350, which is due by April 15th. If the payment is not made on time, the taxpayer may be subject to a penalty. The taxpayer should make sure to pay the amount owed in full by the deadline or set up a payment plan with the IRS.",
+            "actionable_steps": [
+                "Make payment by April 15th",
+                "Set up a payment plan with the IRS"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Roth IRA Contribution Opportunity",
+            "description": "The taxpayer's adjusted gross income (AGI) is $954,317, which is below the Roth IRA contribution limit of $6,000 for 2024. The taxpayer may be able to contribute to a Roth IRA, which could provide tax-free growth and withdrawals in retirement.",
+            "actionable_steps": [
+                "Contribute to a Roth IRA",
+                "Consult with a financial advisor"
+            ]
+        },
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has made charitable contributions of $9,000, which is below the standard deduction. The taxpayer may be able to itemize these deductions and claim a larger deduction. A review of the taxpayer's charitable giving is recommended.",
+            "actionable_steps": [
+                "Itemize charitable contributions",
+                "Consult with a tax professional"
+            ]
+        },
+        {
+            "title": "Investment Tax Strategies",
+            "description": "The taxpayer has capital gains of $19,538, which may be subject to capital gains tax. The taxpayer may be able to reduce their tax liability by offsetting these gains with losses from other investments. A review of the taxpayer's investment portfolio is recommended.",
+            "actionable_steps": [
+                "Review investment portfolio",
+                "Consult with a financial advisor"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has other credits of $1,979, which may be subject to phase-outs or limitations. A review of the taxpayer's credits is recommended to ensure they are maximizing their tax savings.",
+            "actionable_steps": [
+                "Review credits",
+                "Consult with a tax professional"
+            ]
+        }
+    ]
+}

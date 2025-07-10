@@ -1,0 +1,62 @@
+{
+    "needs_attention": [
+        {
+            "title": "Insufficient Federal Withholding",
+            "description": "The taxpayer has a total tax liability of $259,094, but has only paid $243,743 in federal withholding. This leaves a potential underpayment of $15,351, which may result in penalties and interest.",
+            "actionable_steps": [
+                "Increase federal withholding by $1,500 per month",
+                "Consider making quarterly estimated tax payments"
+            ]
+        },
+        {
+            "title": "Missed Itemized Deductions",
+            "description": "The taxpayer has claimed a standard deduction of $60,797, but may be eligible for itemized deductions. Reviewing Schedule A, it appears that the taxpayer has missed deductions for mortgage interest, charitable contributions, and state and local taxes.",
+            "actionable_steps": [
+                "Review and complete Schedule A to claim itemized deductions",
+                "Gather supporting documentation for deductions"
+            ]
+        },
+        {
+            "title": "Potential Roth IRA Contribution",
+            "description": "The taxpayer has an adjusted gross income (AGI) of $954,317, which exceeds the Roth IRA contribution limit. However, the taxpayer may still be eligible to contribute to a traditional IRA or consider other retirement savings options.",
+            "actionable_steps": [
+                "Research traditional IRA and other retirement savings options",
+                "Consult with a financial advisor to determine the best course of action"
+            ]
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "Charitable Giving Optimization",
+            "description": "The taxpayer has claimed charitable contributions of $9,000, but may be eligible for additional deductions. Reviewing Schedule A, it appears that the taxpayer has missed deductions for charitable contributions. Consider bundling charitable contributions with other itemized deductions to maximize tax savings.",
+            "actionable_steps": [
+                "Review and complete Schedule A to claim charitable contributions",
+                "Consider bundling charitable contributions with other itemized deductions"
+            ]
+        },
+        {
+            "title": "Tax Credit Maximization",
+            "description": "The taxpayer has claimed a residential energy credit of $1,974, but may be eligible for additional tax credits. Reviewing Schedule 3, it appears that the taxpayer has missed credits for education expenses, child care, and retirement savings. Consider claiming these credits to maximize tax savings.",
+            "actionable_steps": [
+                "Review and complete Schedule 3 to claim additional tax credits",
+                "Gather supporting documentation for credits"
+            ]
+        },
+        {
+            "title": "Investment Tax Strategies",
+            "description": "The taxpayer has reported capital gains of $19,538, which may be subject to capital gains tax. Consider consulting with a financial advisor to develop a tax-efficient investment strategy, such as harvesting losses or using tax-loss harvesting.",
+            "actionable_steps": [
+                "Consult with a financial advisor to develop a tax-efficient investment strategy",
+                "Review and complete Schedule D to report capital gains and losses"
+            ]
+        },
+        {
+            "title": "Deduction Bundling",
+            "description": "The taxpayer has claimed a standard deduction of $60,797, but may be eligible for itemized deductions. Reviewing Schedule A, it appears that the taxpayer has missed deductions for mortgage interest, charitable contributions, and state and local taxes. Consider bundling these deductions to maximize tax savings.",
+            "actionable_steps": [
+                "Review and complete Schedule A to claim itemized deductions",
+                "Consider bundling deductions with other itemized deductions"
+            ]
+        }
+    ]
+}
